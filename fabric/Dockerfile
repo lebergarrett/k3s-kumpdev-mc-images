@@ -1,2 +1,2 @@
-FROM itzg/minecraft-server
+FROM itzg/minecraft-server:latest
 COPY mods /mods
