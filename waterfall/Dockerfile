@@ -1,2 +1,2 @@
-FROM itzg/bungeecord:latest
+FROM itzg/bungeecord
 COPY plugins /plugins

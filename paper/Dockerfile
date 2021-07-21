@@ -1,2 +1,2 @@
-FROM itzg/minecraft-server:latest
+FROM itzg/minecraft-server
 COPY plugins /plugins
