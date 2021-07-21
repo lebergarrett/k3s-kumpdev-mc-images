@@ -3,7 +3,7 @@ name: Publish Docker image
 on:
   push:
     paths:
-      - fabric/
+      - fabric/**
 
 jobs:
   push_to_registry:

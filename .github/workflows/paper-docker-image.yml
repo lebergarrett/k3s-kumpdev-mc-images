@@ -3,7 +3,7 @@ name: Publish Docker image
 on:
   push:
     paths:
-      - paper/
+      - paper/**
 
 jobs:
   push_to_registry:
